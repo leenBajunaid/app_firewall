@@ -1,0 +1,19 @@
+{
+  "name": "appfirewall",
+  "version": "0.0.1",
+  "description": "implementing a firewall for a web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "leen Bajunaid, Sadeem Bin Mahfouz and Reem Bazarah",
+  "license": "...",
+  "dependencies": {
+    "dompurify": "^3.0.6",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "jsdom": "^23.0.1",
+    "nodemon": "^3.0.2",
+    "sqlite3": "^5.1.6"
+  }
+}
