@@ -27,5 +27,5 @@ The main goal of this app is to know what is cross-site scripting and sql inject
 
 ## Author
 
-👤 **LEEN ALI, SADEEM SALEM and REEM MOHAMMED**
+👤 **LEEN ALI**
 
